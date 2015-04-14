@@ -1,0 +1,70 @@
+<div>
+<p><a name="5_12.11"></a></p>
+
+ <p>This Rapid7&reg; Nexpose&reg; 5.13.2 release contains:</p>
+
+                                      <ul>
+															<li>April 2015 Patch Tuesday checks</span></li> 
+															<li>application improvements</span></li>
+                                                                                        <li><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">accuracy improvements</span></li>
+																				
+											
+</ul>
+                                                             <h3>April 2015 Patch Tuesday checks<span style="color: #29383f;"> | content</h3>
+<p>New vulnerability checks provide up-to-date Microsoft Patch Tuesday scan coverage for April 2015. For information about all current security bulletins covered in this release, see the <a href="http://technet.microsoft.com/en-us/security/bulletin/ms15-apr" target="_blank">Microsoft Security Bulletin Summary for April 2015</a>. Use the checks in this update to verify that the latest Microsoft patches have been applied to system assets.</p>
+<p>These checks help you determine where new risks are located in your environment, allowing you to prioritize what needs to be remediated and help minimize risk.</p>
+  
+															
+															<h3>Application improvement <span style="color: #29383f;"> | product</span></h3>
+                 <p>Improvements to how the application integrates and presents scan data, and how it performs overall, help you to manage security issues more effectively in your environment:</span></p>
+<ul>
+<li>The API guide now provides XML code samples for the 1.1 API calls. Also, all XML samples throughout the guide are now in text format for searchability and copy/paste convenience. You can download the guide from the <i>Support</i> page in Help. </li>
+<li>An issue that could have caused some Security Consoles to sporadically crash has been resolved. </li>
+<li>An issue that prevented users from being added to the report access list has been resolved.  </li>
+<li>CVSS vector data has been updated for several vulnerabilities. </li>
+<li>An issue that prevented expired vulnerability exceptions from being resubmitted has been resolved. </li>
+</ul> 
+
+
+
+  <h3 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold">Accuracy improvements <span style="color: #29383f;"> | product &amp; content</span></h3>
+  <p><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">Better accuracy of scan results helps you to assess your security posture and prioritize remediation more effectively:</span></p>
+<ul>
+    <li style="color: #808080;"><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">An issue that caused false negatives for Telnet default account checks when certain scan templates are used has been resolved. </span></li>
+   <li style="color: #808080;"><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">The application now supports asset node fingerprinting over the Apple Filing Protocol (AFP). </span></li>
+    <li style="color: #808080;"><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">Unauthenticated coverage for Microsoft DNS Server vulnerability MS12-017 has been improved. </span></li>
+	 <li style="color: #808080;"><span style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;">An issue that caused coverage for Microsoft Windows vulnerability MS14-018 to search for non-security updates has been resolved. </span></li>
+</ul>
+
+<h3 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold;">Buzz</h3>
+<ul>
+<li style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;"><a href="https://information.rapid7.com/key-takeaways-from-the-updated-pci-pen-testing-guidance-registration.html" target="_blank">
+Key Takeaways From the Updated PCI Penetration Testing Guidance</a> Webcast: Thursday, April 16th @ 2PM ET</li>
+    <li style="color: #808080; font-family: Trebuchet MS,Tahoma,Helvetica; font-size: 10pt;"><a href="http://www.rapid7.com/resources/videos/discovery-connections-and-mobile-risk-assessment.jsp" target="_blank">
+Discovery Connections and Mobile Risk Assessment in Nexpose</a> Feature Friday video with Nate Crampton</li>
+       
+	  
+	  </ul>
+
+<h4 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold;">Installer links, md5sum links, and virtual appliance links</h4>
+
+<p><span style="color:#808080; font-family:trebuchet ms,tahoma,helvetica; font-size:10pt">Click <a href="https://rapid7.my.salesforce.com/a1214000001vJyT?nooverride=1" target="_blank">here</a> for the latest installer links, md5sum links, and virtual appliance links.</span></p>
+
+<h4 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold;">FAQ</h4>
+
+<p><span style="color:#808080; font-family:trebuchet ms,tahoma,helvetica; font-size:10pt">For details about restarting Nexpose after updating and other update information, see <a href="https://rapid7.my.salesforce.com/a1214000001vJ5a?nooverride=1" target="_blank">Nexpose release FAQ</a>.</span></p>
+
+<h4 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold;">Product Update IDs</h4>
+
+<ul>
+	<li style="color:#808080; font-family:trebuchet ms,tahoma,helvetica; font-size:10pt">Linux 64<strong> |</strong> Update ID: xxxx</span></li>
+	<li style="color:#808080; font-family:trebuchet ms,tahoma,helvetica; font-size:10pt">Windows 64 <strong> |</strong> Update ID: xxxx</span></li>
+</ul>
+
+
+<h4 style="font-family: Trebuchet MS,Tahoma,Helvetica; color: #ea5709; font-size: 12pt; font-weight: bold;">Content update</h4>
+
+<ul>
+	<li style="color:#808080; font-family:trebuchet ms,tahoma,helvetica; font-size:10pt">Update ID:  xxxx</span></li>
+</ul>
+</div>
